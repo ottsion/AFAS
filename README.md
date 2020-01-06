@@ -1,2 +1,5 @@
 # AFAS
-人工鱼群算法
+
+Artificial fish swarm algorithm
+
+**Written four years ago**
